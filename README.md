@@ -2,6 +2,6 @@
 
 This repository contains C++ based Image processing utility application using opencv. 
 
-## BasicImageUtility
+## 1. BasicImageUtility
 
-First App contains basic image processing applications like resizing,cropping, flipping and annotating images
+This First App contains my work on basic image processing applications like resizing,cropping, flipping and annotating images
